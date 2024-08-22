@@ -2,5 +2,5 @@
 - 👀 I’m interested in tea
 - 🌱 I’m currently learning CSS,HTML,CPP
 - 💞️ I’m looking to collaborate to Future me
-- 📫 How to reach me iaimalkhan10@gmail.com
+- 📫 How to reach me at cseaimal@gmail.com
 - ⚡ Fun fact: I am Human
