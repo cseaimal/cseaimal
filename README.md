@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cseaimal
-- 👀 I’m interested in tea
-- 🌱 I’m currently learning CSS,HTML,CPP
+- 👀 I’m interested in you
+- 🌱 I’m currently learning CSS,HTML,C++ and Flutter
 - 💞️ I’m looking to collaborate to Future me
 - 📫 How to reach me at cseaimal@gmail.com
 - ⚡ Fun fact: I am Human
