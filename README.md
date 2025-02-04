@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FLUTTER, CPP, HMTL,CSS**
 
-- 👯 I’m looking to collaborate on **With Future me**
+- 👯 I’m looking to collaborate  **With Future me**
 
 - 💬 Ask me about **Everything**
 
