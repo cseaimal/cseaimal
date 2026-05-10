@@ -1,28 +1,221 @@
-![MasterHead](http://camo.githubusercontent.com/2a50a7d7ae5024f74fad6ea1cab81c197e975e028147bb9a3d3441296f05af88/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)
-<h1 align="center">Hi 👋, I'm Aimal khan</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+````md
+<h1 align="center">Hi 👋, I'm Aimal Khan</h1>
 
-- 🔭 I’m currently working on **Pokemon Game**
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer+🚀;Embedded+Systems+Developer+⚡;Flutter+%26+IoT+Engineer+📱;Cybersecurity+%26+PQC+Researcher+🔐;Raspberry+Pi+%26+FPGA+Explorer+🛠️;Building+Smart+Technology+For+The+Future+💡" alt="Typing SVG" />
+</h3>
 
-- 🌱 I’m currently learning **FLUTTER, CPP, HMTL,CSS**
-
-- 👯 I’m looking to collaborate  **With Future me**
-
-- 💬 Ask me about **Everything**
-
-- 📫 How to reach me **cseaimal@gmail.com**
-
-- ⚡ Fun fact **I am Human**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aimal-khan-3a27a8324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cseaimal" height="30" width="40" /></a>
-<a href="https://fb.com/aimal_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aimal_pk" height="30" width="40" /></a>
-<a href="https://instagram.com/aimal_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aimal_pk" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cseaimal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cseaimal&show_icons=true&locale=en&layout=compact" alt="cseaimal" /></p>
+---
+
+# 💫 About Me
+
+```yaml
+Name: Aimal Khan
+Located_In: Pakistan 🇵🇰
+Current_Role: Software & Embedded Systems Engineer
+Education: Computer Systems Engineering
+
+Fields_of_Interest:
+  [
+    "Embedded Systems",
+    "Flutter Development",
+    "Internet of Things",
+    "Cybersecurity",
+    "Post Quantum Cryptography",
+    "FPGA Systems",
+    "AI & Robotics"
+  ]
+
+Currently_Working_On:
+  [
+    "Pokemon Game",
+    "Smart Embedded Systems",
+    "Quantum Safe Security Solutions",
+    "Flutter Applications"
+  ]
+
+Technical_Background:
+  [
+    "Raspberry Pi",
+    "Arduino",
+    "MSP430",
+    "FPGA",
+    "IoT Sensors",
+    "Automation Systems"
+  ]
+
+Hobbies:
+  [
+    "Hiking",
+    "Traveling",
+    "Chai & Coding ☕",
+    "Exploring Technologies"
+  ]
+
+Tech_Philosophy: "Build Smart. Engineer Better. Keep Learning."
+````
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aimal-khan-3a27a8324/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+<a href="https://instagram.com/aimal_pk" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="50" />
+</a>
+
+<a href="https://fb.com/aimal_pk" target="blank">
+<img src="https://skillicons.dev/icons?i=facebook" width="50" />
+</a>
+
+<a href="mailto:cseaimal@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,dart,flutter,html,css,js,mysql,git,github,linux,vscode,arduino,raspberrypi" />
+
+</p>
+
+---
+
+# 🛠️ Engineering Platforms & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MSP430-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-121011?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Post_Quantum_Cryptography-5C2D91?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Aqua Tracker App
+
+* Flutter Based Water Tracking App
+* Animated UI/UX
+* Smart Progress Tracking
+* Celebration Effects
+
+</td>
+
+<td width="50%">
+
+### 🎮 Pokemon Game
+
+* Interactive Gameplay
+* Custom UI
+* C++ Logic Implementation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 PQC Research
+
+* Post Quantum Cryptography
+* Quantum Safe Solutions
+* Security Research
+
+</td>
+
+<td width="50%">
+
+### 🤖 Smart Embedded Systems
+
+* Raspberry Pi Projects
+* MSP430 Development
+* IoT Automation Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cseaimal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseaimal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cseaimal&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=cseaimal&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cseaimal&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/cseaimal/cseaimal/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+# ☕ Beyond Engineering
+
+🥾 Hiking & Trekking
+☕ Chai Lover
+📸 Photography
+🎧 Coding Playlists
+🌍 Exploring New Technologies
+
+---
+
+<h3 align="center">
+✨ "Engineering Ideas Into Reality." ✨
+</h3>
+```
