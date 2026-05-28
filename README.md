@@ -1,122 +1,130 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Aimal+Khan;Engineering+ideas+into+reality.;One+problem+at+a+time." />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cseaimal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/cseaimal?style=for-the-badge&color=00bfff" />
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:00b4d8&height=200&section=header&text=Aimal%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Embedded%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=90e0ef" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Flutter+%26+Embedded+Systems+Engineer;IoT+%7C+Cybersecurity+%7C+PQC+Research;Building+Deep-Tech+for+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Turning+Complex+Problems+into+Real+Products" />
+
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=cseaimal&label=Profile+Views&color=0d1b2a&style=flat-square&labelColor=00b4d8" />
+  <img src="https://img.shields.io/github/followers/cseaimal?style=flat-square&color=0d1b2a&labelColor=00b4d8&label=Followers" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-00b4d8?style=flat-square&labelColor=0d1b2a" />
 </p>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-## Who I Am
+### `> whoami`
 
-I'm a CS engineering student from Pakistan — building at the intersection of **embedded systems**, **Flutter**, **IoT**, and **AI**.
+I'm **Aimal Khan** — a Computer Systems Engineering student from **Peshawar, Pakistan**, building at the intersection of hardware and software.
 
-I'm not the best developer in the room.  
-But I'm the one who ships.
+My focus is on systems that matter: embedded intelligence, secure infrastructure, and IoT automation built for real-world deployment — not just academic exercises.
 
-I use every tool available — including AI — to build things that are real, useful, and mine.  
-Then I learn how every piece of it works.
-
-That's the loop.
+I work with what I have, learn what I need, and ship before I feel ready.
 
 ```yaml
-Name        : Aimal Khan
-Location    : Peshawar, Pakistan 🇵🇰
-Status      : Engineering student → deep-tech builder
-Mindset     : Solve hard problems. Build systems. Own the technology.
-
-Currently   :
-  - Learning Flutter through real projects
-  - Exploring IoT + embedded AI integration
-  - Researching Post-Quantum Cryptography on FPGA
-  - Building in public — one project at a time
-
-Philosophy  : "Don't wait to feel ready. Ship the ugly version first."
+location  : Peshawar, Pakistan 🇵🇰
+focus     : Embedded Systems · Flutter · IoT · Cybersecurity
+research  : Post-Quantum Cryptography on FPGA
+building  : Smart systems for Pakistan's infrastructure gap
+goal      : Deep-tech product company — not a service shop
 ```
 
 ---
 
-## What I'm Building Toward
+### `> current_work`
 
-Pakistan doesn't need more developers.  
-It needs people who can build **intelligent infrastructure** — the kind that runs factories, monitors energy, secures systems, and scales to millions.
-
-That's the direction I'm moving.  
-Not a freelancer. Not a service shop.  
-A **deep-tech product builder.**
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,dart,flutter,linux,git,github,vscode,arduino,raspberrypi,mysql" />
-</p>
-
-**Hardware:** ESP32 · Raspberry Pi · Arduino · MSP430 · FPGA  
-**Software:** Flutter · Python · C/C++ · Dart  
-**Exploring:** Embedded AI · Post-Quantum Cryptography · IoT Systems · Docker
+- 🔧 **Flutter** — Building production-grade mobile applications
+- ⚡ **Embedded Systems** — ESP32, Raspberry Pi, FPGA-based projects
+- 🔐 **PQC Research** — Post-quantum cryptography implementation on FPGA
+- 🌐 **IoT Automation** — Sensor networks, dashboards, real deployments
+- 🤖 **AI Integration** — Exploring embedded AI and intelligent systems
 
 ---
 
-## Featured Projects
+### `> tech_stack`
 
-| Project | What It Actually Is |
-|---|---|
-| 📱 **Aqua Tracker** | Flutter water tracking app — my first real shipped UI |
-| 🔐 **PQC on FPGA** | Research into quantum-safe cryptography on hardware |
-| 🤖 **Smart Embedded Systems** | IoT automation experiments — sensors, dashboards, real data |
-| 🎮 **Pokémon C++ Game** | Built a game from scratch to understand OOP deeply |
+<div align="center">
 
-> Small projects. Real lessons. Shipping over perfecting.
+**Languages & Frameworks**
 
----
+<img src="https://skillicons.dev/icons?i=cpp,c,python,dart,flutter" />
 
-## GitHub Stats
+**Tools & Platforms**
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cseaimal&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseaimal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cseaimal&theme=tokyonight&hide_border=true"/>
-</p>
+**Hardware**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cseaimal&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+&nbsp;
+<img src="https://img.shields.io/badge/ESP32-black?style=flat-square&logo=espressif&logoColor=red" />
+<img src="https://img.shields.io/badge/FPGA-black?style=flat-square&logo=xilinx&logoColor=00b4d8" />
+<img src="https://img.shields.io/badge/MSP430-black?style=flat-square&logo=ti&logoColor=white" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cseaimal&theme=tokyo-night"/>
-</p>
+</div>
 
 ---
 
-## Connect
+### `> projects`
 
-<p align="center">
-  <a href="https://linkedin.com/in/aimal-khan-3a27a8324">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-  &nbsp;
-  <a href="mailto:cseaimal@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/aimal_pk">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/cseaimal">
-    <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  </a>
-</p>
+| # | Project | Stack | Status |
+|---|---------|-------|--------|
+| 01 | **Aqua Tracker** — Animated Flutter hydration tracking app | Flutter · Dart | ✅ Shipped |
+| 02 | **PQC on FPGA** — Post-quantum cryptographic implementation for secure hardware | FPGA · VHDL · Cryptography | 🔬 Research |
+| 03 | **Smart Embedded Systems** — IoT automation with sensor networks & live dashboards | ESP32 · Python · MQTT | 🔧 Active |
+| 04 | **Pokémon C++ Engine** — Custom game engine built from scratch to master OOP | C++ · OOP · DSA | ✅ Complete |
 
 ---
 
-<h4 align="center">Still learning. Still building. Not stopping.</h4>
+### `> github_stats`
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cseaimal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cseaimal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cseaimal&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ffffff&currStreakLabel=00b4d8" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=cseaimal&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cseaimal&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+### `> connect`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/aimal-khan-3a27a8324">
+  <img src="https://img.shields.io/badge/LinkedIn-Aimal%20Khan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a" />
+</a>
+&nbsp;
+<a href="mailto:cseaimal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-cseaimal@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a" />
+</a>
+&nbsp;
+<a href="https://github.com/cseaimal">
+  <img src="https://img.shields.io/badge/GitHub-cseaimal-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a" />
+</a>
+&nbsp;
+<a href="https://instagram.com/aimal_pk">
+  <img src="https://img.shields.io/badge/Instagram-aimal__pk-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1b2a" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d1b2a,100:0a0a0f&height=100&section=footer" width="100%"/>
+
+</div>
